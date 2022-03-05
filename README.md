@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
-<h3 align="center">Data Science Enthusiast.. A Full Stack Developer...Keen Learner</h3>
+<h3 align="center">Data Science Enthusiast..  Full Stack Developer...Keen Learner</h3>
 
 - 📫 How to reach me **priyanshu.kr432@gmail.com**
 
